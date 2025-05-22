@@ -24,7 +24,7 @@ In this section, we provide additional insights into the details of our measurem
 
 **Table 1**: The "Var" row was created using the `=STDEV(column above)` function in Excel (Gamma3). For **Context Precision**, the reported variance reflects the variability of the metric itself, as it is model-agnostic (cf. Eq. 7, Subsection 4.1). However, for **Context Recall**, the same conclusion cannot be drawn (cf. Eq. 9, Subsection 4.1).
 
-**Table 2**: The following precision values are reported. </pre>
+**Table 2**: More details in [RAG Evaluation](eval/)
 
 ## Clone Repository
 
