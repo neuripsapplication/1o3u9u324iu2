@@ -1,7 +1,7 @@
 
 # NeurIPS_2025
 
-This repository provides all the code used for the research: *RankLLaMA-Based Tree-RAG Using Lightweight Models for Answering Robotic-Assisted Surgery Queries*. We plan to publicly share all documents upon paper acceptance.
+This repository provides all the code used for the research: *RankLLaMA-Based Tree-RAG Using Lightweight Models for Answering Robotic-Assisted Surgery Queries*. We plan to publicly share all documents.
 
 You may find the following documents:
 
