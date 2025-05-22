@@ -11,8 +11,8 @@ The code was tested on the following device:
 Make a copy of the virtual environment:
 
 ```bash
-python3 -m venv eval_rag
-source eval_rag/bin/activate
+python3 -m venv query_gen
+source query_gen/bin/activate
 pip install -r requirements.txt
 ```
 
